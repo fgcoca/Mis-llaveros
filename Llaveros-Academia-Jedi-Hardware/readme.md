@@ -10,6 +10,8 @@ Todos los diseños originales y los archivos stl están disponibles en el reposi
 
 ![Repo-llaveros-academia-jedi-hardware](https://github.com/fgcoca/Mis-llaveros/tree/master/Llaveros-Academia-Jedi-Hardware)
 
+Aquí tenemos los diseños de las insignias: https://github.com/fgcoca/Mis-llaveros/tree/master/Llaveros-Academia-Jedi-Hardware/Insignias
+
 ### **Impresiones de los diseños**
 
 #### **Rango Cadete**
