@@ -8,14 +8,6 @@ Partiendo de los diseños vectoriales disponibles en:
 
 * https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/tree/master/rangos/svg
 
-
-### **Impresiones de los diseños**
-
-#### **Rango Padawan**
-
-![Padawans](https://github.com/fgcoca/Mis-llaveros/blob/master/Llaveros-Academia-Jedi-Hardware/Images/Minis/Padawans.jpg)
-
-
 ### **Author**
 
 Federico Coca Caba - https://github.com/fgcoca
