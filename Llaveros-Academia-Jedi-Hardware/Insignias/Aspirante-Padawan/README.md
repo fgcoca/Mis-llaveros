@@ -1,10 +1,12 @@
-### **Insignias**
-
 ### **Impresiones de los diseños**
 
 #### **Rango Padawan**
 
-![Padawans]()
+Imagen con la insignia y el llavero
+
+Rango adquirido el día **26/11/17**
+
+![Padawans](https://github.com/fgcoca/Mis-llaveros/blob/master/Llaveros-Academia-Jedi-Hardware/Insignias/Aspirante-Padawan/Fotos/20171126_172404.jpg)
 
 
 ### **Author**
