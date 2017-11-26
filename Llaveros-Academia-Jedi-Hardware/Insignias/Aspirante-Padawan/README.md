@@ -1,19 +1,10 @@
 ### **Insignias**
 
-Diseño en 3D de las insignias a partir de las propuestas dadas en:  
-
-* https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki
-
-Partiendo de los diseños vectoriales disponibles en:
-
-* https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/tree/master/rangos/svg
-
-
 ### **Impresiones de los diseños**
 
 #### **Rango Padawan**
 
-![Padawans](https://github.com/fgcoca/Mis-llaveros/blob/master/Llaveros-Academia-Jedi-Hardware/Images/Minis/Padawans.jpg)
+![Padawans]()
 
 
 ### **Author**
