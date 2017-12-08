@@ -1,8 +1,8 @@
-![BugBot]() 
+![Llavero](https://github.com/fgcoca/Mis-llaveros/blob/master/LLavero-Granabot/Imagen/Captura.png) 
 
-### **3D-Design**
+### **Design**
 
-Nuestros diseños 3D para imprimir y montar
+Diseño en 2D y 3D del llavero de Granabot en su nueva versión.
 
 ### **Authors**
 
